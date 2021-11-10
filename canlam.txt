@@ -1,0 +1,9 @@
+1. Phân tích 
+2. Dựng Base(xây móng) --> xong
+3. Xây dựng từng phần theo Phân tích
+4. Hoàn thiện
+*Phân tích web the band:
+	1. header --> in progress
+	2. slider
+	3. content
+	4. footer
